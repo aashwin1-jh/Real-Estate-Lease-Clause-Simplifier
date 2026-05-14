@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+evaluation/results.csv
+evaluation/baseline_report.md
+evaluation/fk_comparison.png
+evaluation/rubric_scores.csv
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.DS_Store

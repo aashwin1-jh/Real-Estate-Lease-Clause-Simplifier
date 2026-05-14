@@ -1,0 +1,343 @@
+[
+  {
+    "id": "sd_01",
+    "category": "security_deposit",
+    "clause_text": "Upon execution of this Lease, Tenant shall deposit with Landlord the sum of Two Thousand Dollars ($2,000.00) as a security deposit. Said deposit shall be held by Landlord in a non-interest-bearing account as security for the faithful performance by Tenant of all terms, covenants, and conditions of this Lease. Upon termination of the tenancy, the security deposit, or any balance thereof remaining after lawful deductions, shall be returned to Tenant within thirty (30) days after Tenant has vacated the Premises and surrendered possession to Landlord, together with an itemized written statement of any deductions made therefrom.",
+    "key_obligations": [
+      "pay $2,000 security deposit at lease signing",
+      "landlord must return deposit within 30 days of move-out",
+      "landlord must provide itemized statement of deductions"
+    ]
+  },
+  {
+    "id": "sd_02",
+    "category": "security_deposit",
+    "clause_text": "Tenant shall pay a security deposit equal to one and one-half (1.5) times the monthly rent, currently calculated at Two Thousand Two Hundred Fifty Dollars ($2,250.00). Landlord shall hold said deposit in an interest-bearing escrow account at a federally insured financial institution, and any interest accrued thereon shall be credited to Tenant annually. Deductions from the security deposit shall be limited to unpaid rent, damage beyond normal wear and tear, and cleaning costs if the unit is not returned in broom-clean condition. Landlord shall forfeit the right to any deduction if written notice of claimed damages is not delivered to Tenant within fourteen (14) days of vacating.",
+    "key_obligations": [
+      "pay $2,250 security deposit",
+      "landlord holds deposit in interest-bearing account",
+      "interest on deposit credited to tenant annually",
+      "landlord must deliver written damage notice within 14 days of move-out or forfeits deductions"
+    ]
+  },
+  {
+    "id": "sd_03",
+    "category": "security_deposit",
+    "clause_text": "The security deposit of One Thousand Five Hundred Dollars ($1,500.00) shall be held by Landlord. Notwithstanding the foregoing, in the event Tenant exercises the renewal option described in Section 14, the security deposit shall be increased to Two Thousand Dollars ($2,000.00) upon commencement of the renewal term. Tenant agrees that Landlord may apply the deposit against any outstanding balance owed at any time during the tenancy, provided Tenant is given written notice of such application within five (5) business days. Nothing herein shall limit Landlord's right to pursue additional damages in excess of the deposit amount.",
+    "key_obligations": [
+      "pay $1,500 security deposit",
+      "deposit increases to $2,000 upon renewal",
+      "landlord may apply deposit to outstanding balance during tenancy with 5-day written notice",
+      "landlord can pursue damages beyond the deposit amount"
+    ]
+  },
+  {
+    "id": "maint_01",
+    "category": "maintenance",
+    "clause_text": "Tenant shall, at Tenant's sole cost and expense, keep and maintain the Premises and every part thereof in good, clean, and sanitary condition and repair. Tenant shall be responsible for all repairs necessitated by Tenant's misuse, waste, neglect, or negligence, including that of Tenant's family members, guests, and invitees. Tenant shall promptly notify Landlord in writing of any defects or conditions requiring repair. Landlord shall be responsible for maintaining the structural components of the building, including the roof, exterior walls, foundation, and building-wide mechanical and electrical systems serving the Premises.",
+    "key_obligations": [
+      "keep unit clean and in good condition at your own expense",
+      "pay for repairs caused by you, your family, or guests",
+      "notify landlord in writing of any needed repairs",
+      "landlord maintains roof, exterior walls, foundation, and building systems"
+    ]
+  },
+  {
+    "id": "maint_02",
+    "category": "maintenance",
+    "clause_text": "Landlord shall maintain the Premises in a habitable condition as required by applicable law. In the event Tenant reports a habitability defect — including but not limited to failure of heating, plumbing, or electrical systems — Landlord shall commence repairs within seventy-two (72) hours of receipt of written notice for emergency conditions, and within fourteen (14) days for non-emergency conditions. Tenant shall not withhold rent, repair-and-deduct, or abandon the Premises on grounds of disrepair without first providing written notice and a reasonable cure period. If Landlord fails to cure within the applicable period, Tenant's remedies shall be governed by applicable state law.",
+    "key_obligations": [
+      "landlord must keep unit habitable",
+      "landlord must begin emergency repairs within 72 hours of written notice",
+      "landlord must begin non-emergency repairs within 14 days of written notice",
+      "tenant must give written notice and cure period before withholding rent or repair-and-deduct"
+    ]
+  },
+  {
+    "id": "maint_03",
+    "category": "maintenance",
+    "clause_text": "Tenant shall replace, at Tenant's expense, all light bulbs, batteries in smoke and carbon monoxide detectors, and HVAC filters on a regular basis, but no less than every ninety (90) days. Tenant shall not make any alterations, improvements, or additions to the Premises without Landlord's prior written consent. Any permitted alterations shall become the property of Landlord upon termination of the Lease unless Landlord directs Tenant in writing to remove them, in which case Tenant shall restore the Premises to their prior condition at Tenant's sole expense. Unauthorized alterations shall be remediated by Tenant upon demand.",
+    "key_obligations": [
+      "replace light bulbs, detector batteries, and HVAC filters at least every 90 days at your expense",
+      "get landlord written consent before any alterations",
+      "permitted alterations become landlord property at lease end unless landlord orders removal",
+      "tenant pays to restore unit if directed to remove alterations"
+    ]
+  },
+  {
+    "id": "term_01",
+    "category": "termination",
+    "clause_text": "Either party may terminate this Lease upon sixty (60) days prior written notice delivered to the other party. In the event Tenant terminates prior to the expiration of the initial Lease term, Tenant shall be liable for a termination fee equal to two (2) months' rent, in addition to rent owed through the termination date. Landlord shall have a duty to mitigate damages by making reasonable efforts to re-let the Premises, and any rent received from a subsequent tenant during the period covered by the termination fee shall be credited to Tenant's termination fee obligation.",
+    "key_obligations": [
+      "give 60 days written notice to terminate",
+      "pay two months rent as early termination fee",
+      "landlord must try to re-rent the unit to reduce your termination fee",
+      "rent from new tenant is credited against your termination fee"
+    ]
+  },
+  {
+    "id": "term_02",
+    "category": "termination",
+    "clause_text": "This Lease shall automatically convert to a month-to-month tenancy upon expiration of the initial term unless either party provides written notice of intent not to renew at least thirty (30) days prior to the expiration date. Monthly rent during any month-to-month period shall be increased by ten percent (10%) above the last monthly rent paid under the fixed term. Either party may terminate the month-to-month tenancy by providing thirty (30) days written notice. Tenant shall not hold over beyond the notice period without Landlord's express written consent, and any unauthorized holdover shall be treated as a tenancy at sufferance subject to double the monthly rent.",
+    "key_obligations": [
+      "give 30 days notice before lease end to avoid automatic month-to-month conversion",
+      "month-to-month rent is 10% higher than final fixed-term rent",
+      "unauthorized holdover triggers double rent"
+    ]
+  },
+  {
+    "id": "term_03",
+    "category": "termination",
+    "clause_text": "Tenant may terminate this Lease early without penalty upon thirty (30) days written notice if: (a) Tenant is a member of the United States Armed Forces and receives orders for a permanent change of station or deployment; (b) Tenant suffers a documented disability rendering the unit inaccessible; or (c) Tenant is a victim of domestic violence, sexual assault, or stalking, as evidenced by a police report or court order. In all qualifying cases, Tenant shall provide supporting documentation with the notice. Landlord shall confirm receipt and release in writing within ten (10) business days. Outside these circumstances, standard early termination provisions apply.",
+    "key_obligations": [
+      "active military orders allow penalty-free early termination with 30 days notice",
+      "documented disability or domestic violence also qualifies for penalty-free exit",
+      "provide supporting documentation with termination notice",
+      "landlord must confirm release in writing within 10 business days"
+    ]
+  },
+  {
+    "id": "liab_01",
+    "category": "liability",
+    "clause_text": "Tenant hereby indemnifies, defends, and holds harmless Landlord and Landlord's agents, employees, and successors from and against any and all claims, actions, damages, liability, and expense in connection with loss of life, personal injury, or damage to property arising from or out of any occurrence in, upon, or at the Premises, or the occupancy or use by Tenant of the Premises or any part thereof. Notwithstanding the foregoing, Landlord shall remain liable for damages arising from Landlord's own gross negligence or willful misconduct. This indemnification shall survive termination of the Lease.",
+    "key_obligations": [
+      "you indemnify landlord for claims arising from your use of the unit",
+      "landlord remains liable for their own gross negligence or willful misconduct",
+      "indemnification obligation survives after lease ends"
+    ]
+  },
+  {
+    "id": "liab_02",
+    "category": "liability",
+    "clause_text": "Tenant shall indemnify Landlord for all claims arising from Tenant's use of the Premises. Notwithstanding the foregoing, Landlord shall be responsible for maintaining the Premises in habitable condition pursuant to applicable law. In the event of a conflict between this provision and Section 7 of this Lease, the terms of Section 7 shall control. Tenant acknowledges that this clause does not limit Tenant's right to seek legal remedies for Landlord's breach of the implied warranty of habitability.",
+    "key_obligations": [
+      "you indemnify landlord for claims from your use of the unit",
+      "landlord must maintain habitable conditions",
+      "section 7 controls if there is a conflict with this clause",
+      "your right to seek remedies for habitability breach is preserved"
+    ]
+  },
+  {
+    "id": "liab_03",
+    "category": "liability",
+    "clause_text": "Landlord shall not be liable for any damage or loss to Tenant's personal property caused by fire, theft, water, rain, acts of God, or any other cause, whether due to Landlord's negligence or otherwise, unless such damage is caused by Landlord's gross negligence or willful acts. Tenant is strongly encouraged to obtain and maintain renter's insurance throughout the Lease term in an amount sufficient to cover Tenant's personal property, personal liability, and additional living expenses. Tenant's failure to maintain such insurance shall not relieve Tenant of any obligations under this Lease.",
+    "key_obligations": [
+      "landlord is not liable for damage to your personal property except from landlord gross negligence",
+      "you are encouraged to get renter's insurance",
+      "not having renter's insurance does not change your lease obligations"
+    ]
+  },
+  {
+    "id": "pets_01",
+    "category": "pets",
+    "clause_text": "No pets of any kind shall be kept on or about the Premises without the prior written consent of Landlord, which consent may be withheld in Landlord's sole and absolute discretion. If consent is granted, Tenant shall pay a non-refundable pet deposit of Two Hundred Fifty Dollars ($250.00) per pet and an additional monthly pet rent of Forty Dollars ($40.00) per pet. Tenant shall be fully liable for any and all damage caused by any approved pet, and such liability shall survive termination of the Lease. Landlord may revoke pet permission upon fourteen (14) days' written notice if the pet creates a nuisance or causes damage to the Premises.",
+    "key_obligations": [
+      "no pets without landlord written consent",
+      "pay $250 non-refundable pet deposit per pet",
+      "pay $40 monthly pet rent per pet",
+      "you are liable for all pet damage",
+      "landlord can revoke pet permission with 14 days notice"
+    ]
+  },
+  {
+    "id": "pets_02",
+    "category": "pets",
+    "clause_text": "Tenant is permitted to keep up to two (2) domestic cats or one (1) dog not exceeding thirty-five (35) pounds in weight at maturity. Dogs classified as restricted breeds, including but not limited to Pit Bull Terriers, Rottweilers, and Doberman Pinschers, are strictly prohibited regardless of weight. A refundable pet deposit of Five Hundred Dollars ($500.00) per pet shall be due upon execution of the pet addendum. Pet deposits are subject to the same deduction rules as the general security deposit. No other animals, including reptiles, rodents, or birds, are permitted. Tenant shall ensure pets are licensed and vaccinated as required by local ordinance.",
+    "key_obligations": [
+      "maximum 2 cats or 1 dog under 35 pounds allowed",
+      "restricted dog breeds are prohibited",
+      "pay $500 refundable pet deposit per pet",
+      "pets must be licensed and vaccinated per local law"
+    ]
+  },
+  {
+    "id": "pets_03",
+    "category": "pets",
+    "clause_text": "Tenant represents that no pets currently reside at the Premises. Should Tenant wish to keep a pet at any point during the Lease term, Tenant must submit a written pet request to Landlord no less than fifteen (15) days in advance. Landlord shall respond in writing within ten (10) days of receipt. Approval is conditioned upon Tenant's execution of a separate Pet Addendum, payment of the applicable pet deposit, and proof of current vaccinations. Unauthorized pets discovered on the Premises shall constitute a material breach of this Lease and may result in immediate termination proceedings.",
+    "key_obligations": [
+      "submit written pet request 15 days before bringing a pet",
+      "landlord has 10 days to respond to pet request",
+      "must sign pet addendum, pay deposit, and show vaccination proof before bringing pet",
+      "unauthorized pets are a material breach and grounds for eviction"
+    ]
+  },
+  {
+    "id": "lf_01",
+    "category": "late_fees",
+    "clause_text": "Rent in the amount of One Thousand Eight Hundred Dollars ($1,800.00) is due and payable on the first (1st) day of each calendar month. Rent received after the fifth (5th) day of the month shall be subject to a late charge of One Hundred Dollars ($100.00). An additional daily late charge of Ten Dollars ($10.00) per day shall accrue for each day rent remains unpaid after the tenth (10th) day of the month. Acceptance of late rent with or without the late charge shall not constitute a waiver of Landlord's right to enforce the late charge provision in subsequent months. Total late fees shall not exceed the maximum permitted by applicable state law.",
+    "key_obligations": [
+      "rent of $1,800 due on the 1st of each month",
+      "$100 late fee if rent is not paid by the 5th",
+      "$10 additional daily fee after the 10th",
+      "landlord accepting late payment does not waive future late fee rights",
+      "late fees capped at state law maximum"
+    ]
+  },
+  {
+    "id": "lf_02",
+    "category": "late_fees",
+    "clause_text": "Rent is due on the first of each month and shall be considered late if not received by 5:00 p.m. on the third (3rd) day of the month. A late fee of five percent (5%) of the monthly rent shall be charged for any payment received after said deadline. In addition, Tenant shall be charged a returned check fee of Fifty Dollars ($50.00) for any check returned for insufficient funds or any other reason. Tenant who makes two (2) or more late payments or issues two (2) or more returned checks in any twelve (12) month period may be required by Landlord to pay all future rent via certified funds or electronic transfer only.",
+    "key_obligations": [
+      "rent late if not received by 5pm on the 3rd of the month",
+      "late fee is 5% of monthly rent",
+      "$50 returned check fee",
+      "two late payments or two bounced checks in 12 months may require certified funds"
+    ]
+  },
+  {
+    "id": "lf_03",
+    "category": "late_fees",
+    "clause_text": "Rent shall be paid on or before the first day of each month. There is no grace period. A late fee of One Hundred Fifty Dollars ($150.00) shall be assessed immediately on the second (2nd) day of the month if full payment has not been received. This late fee is agreed by the parties to be a reasonable estimate of damages and not a penalty. Partial payments shall not be accepted and shall be returned to Tenant. Landlord's acceptance of partial payment in any month shall not waive the right to demand full payment and shall not create an obligation to accept partial payment in future months.",
+    "key_obligations": [
+      "no grace period - rent is late on the 2nd",
+      "$150 late fee assessed on the 2nd",
+      "partial payments are not accepted",
+      "landlord returning or accepting partial payment does not create future obligation to accept partials"
+    ]
+  },
+  {
+    "id": "noise_01",
+    "category": "noise_conduct",
+    "clause_text": "Tenant agrees to conduct themselves and to require all occupants of the Premises and guests to conduct themselves in a manner that will not disturb other tenants' peaceful enjoyment of the building. Quiet hours are in effect between the hours of 10:00 p.m. and 8:00 a.m. Sunday through Thursday, and between 11:00 p.m. and 9:00 a.m. on Fridays and Saturdays. Violation of quiet hours, following written notice from Landlord, shall constitute a material breach of this Lease. Tenant shall not play musical instruments, amplified music, or conduct parties in a manner audible beyond the walls of the Premises during quiet hours.",
+    "key_obligations": [
+      "maintain quiet hours: 10pm-8am weeknights, 11pm-9am weekends",
+      "guests and occupants must also follow quiet hour rules",
+      "no amplified music or parties audible outside the unit during quiet hours",
+      "violating quiet hours after written warning is a material breach"
+    ]
+  },
+  {
+    "id": "noise_02",
+    "category": "noise_conduct",
+    "clause_text": "Tenant shall maintain the Premises in a clean and orderly manner and shall not permit any waste, nuisance, or unlawful use of the Premises. Tenant shall not smoke tobacco, cannabis, or any other substance anywhere in the building or within twenty-five (25) feet of any building entrance. Tenant shall dispose of all refuse in the designated containers and in accordance with the municipality's recycling requirements. Failure to properly dispose of refuse resulting in a municipal citation shall be the sole financial responsibility of Tenant. Tenant shall not obstruct hallways, stairwells, or common areas with personal property.",
+    "key_obligations": [
+      "keep unit clean and orderly",
+      "no smoking tobacco or cannabis inside or within 25 feet of building entrances",
+      "dispose of trash and recycling in designated containers per local rules",
+      "you pay any municipal fines for improper disposal",
+      "do not block hallways, stairwells, or common areas"
+    ]
+  },
+  {
+    "id": "sub_01",
+    "category": "subletting",
+    "clause_text": "Tenant shall not assign this Lease or sublet the Premises or any portion thereof without the prior written consent of Landlord, which consent shall not be unreasonably withheld, conditioned, or delayed. Landlord's consent to one assignment or subletting shall not constitute consent to any subsequent assignment or subletting. Any subletting without consent shall be voidable at Landlord's election and shall constitute a material breach. If Tenant sublets with consent, Tenant shall remain primarily liable for all obligations under this Lease, including payment of rent, and the subtenant shall be liable jointly and severally with Tenant.",
+    "key_obligations": [
+      "get landlord written consent before subletting or assigning",
+      "landlord cannot unreasonably withhold consent",
+      "each sublet requires separate consent",
+      "subletting without consent is a material breach",
+      "even with consent you remain responsible for rent and all lease obligations"
+    ]
+  },
+  {
+    "id": "sub_02",
+    "category": "subletting",
+    "clause_text": "Tenant is strictly prohibited from subletting, assigning, or otherwise transferring any interest in the Premises or this Lease without Landlord's express prior written consent, which may be withheld in Landlord's sole discretion. Listing the Premises or any room therein on any short-term rental platform, including but not limited to Airbnb, VRBO, or similar services, shall constitute subletting for purposes of this clause. Any unauthorized subletting or short-term rental shall result in immediate termination of this Lease and forfeiture of the security deposit. Tenant shall be liable for all lost rents and costs incurred by Landlord arising from the unauthorized subletting.",
+    "key_obligations": [
+      "no subletting or assignment without landlord written consent",
+      "listing on short-term rental platforms like Airbnb counts as subletting",
+      "unauthorized subletting terminates the lease and forfeits your security deposit",
+      "you owe landlord for lost rent and costs from unauthorized subletting"
+    ]
+  },
+  {
+    "id": "ins_01",
+    "category": "insurance",
+    "clause_text": "Tenant shall procure and maintain throughout the Lease term a renter's insurance policy from an insurer licensed to do business in this state, providing personal property coverage of not less than Fifteen Thousand Dollars ($15,000.00) and personal liability coverage of not less than One Hundred Thousand Dollars ($100,000.00). Tenant shall name Landlord as an additional interested party on the policy and provide Landlord with a certificate of insurance upon execution of the Lease and upon each renewal thereof. Failure to maintain the required insurance shall be a curable default, and Tenant shall have seven (7) days to cure following written notice from Landlord.",
+    "key_obligations": [
+      "maintain renter's insurance throughout lease term",
+      "minimum $15,000 personal property coverage",
+      "minimum $100,000 personal liability coverage",
+      "provide landlord certificate of insurance at signing and at each renewal",
+      "7 days to cure if you let insurance lapse after written notice"
+    ]
+  },
+  {
+    "id": "ins_02",
+    "category": "insurance",
+    "clause_text": "Tenant acknowledges that Landlord's property insurance does not cover Tenant's personal property or personal liability. Tenant is required to maintain renter's insurance at all times. Proof of insurance must be provided to Landlord before occupancy and upon request thereafter. In the event that damage to the Premises results from Tenant's negligence, Tenant's renter's insurance shall be the primary source of payment for such damage, and Landlord reserves the right to file a claim directly with Tenant's insurer as a named additional interested party. Tenant shall not take any action to cancel or reduce coverage without giving Landlord thirty (30) days prior written notice.",
+    "key_obligations": [
+      "landlord insurance does not cover your belongings or liability",
+      "maintain renter's insurance at all times",
+      "provide proof before move-in and whenever landlord requests",
+      "your insurance pays first for damage you cause",
+      "give landlord 30 days notice before canceling or reducing coverage"
+    ]
+  },
+  {
+    "id": "util_01",
+    "category": "utilities",
+    "clause_text": "Tenant shall be solely responsible for establishing accounts and paying all charges for electricity, gas, water, sewer, trash collection, internet, cable, and telephone services to the Premises. Landlord shall be responsible for maintaining the building's central heating system and shall pay for any fuel or utilities associated with common-area systems only. In the event that any utility is provided by Landlord and billed back to Tenant, Landlord shall provide a monthly statement no later than the fifteenth (15th) of each month for the prior month's usage, and Tenant shall pay the stated amount within fifteen (15) days of receipt.",
+    "key_obligations": [
+      "you set up and pay for all utilities including electricity, gas, water, internet, and trash",
+      "landlord maintains central heating system and pays for common area utilities",
+      "if landlord bills you back for a utility, statement is due by the 15th and you pay within 15 days"
+    ]
+  },
+  {
+    "id": "util_02",
+    "category": "utilities",
+    "clause_text": "Water and sewer charges shall be included in the monthly rent. All other utilities, including electricity, gas, internet, and cable, shall be the sole responsibility of Tenant. In the event that water usage in any billing period exceeds One Hundred Fifty Dollars ($150.00) as measured by the building sub-meter, Tenant shall be billed for the excess above $150.00 within fifteen (15) days of Landlord's receipt of the utility bill, and such amount shall be due and payable as additional rent within fifteen (15) days of billing. Landlord reserves the right to install sub-meters and implement usage-based billing with thirty (30) days written notice to Tenant.",
+    "key_obligations": [
+      "water and sewer included in rent",
+      "you pay electricity, gas, internet, and cable separately",
+      "you pay water usage above $150 per billing period as additional rent",
+      "landlord can install sub-meters with 30 days notice"
+    ]
+  },
+  {
+    "id": "util_03",
+    "category": "utilities",
+    "clause_text": "All utilities servicing the Premises shall be paid by Tenant, except as otherwise provided herein. Landlord shall pay for trash and recycling collection as part of building services. In the event the Premises loses utility service due to Tenant's failure to pay a utility bill, Tenant shall be responsible for any reconnection fees and shall indemnify Landlord against any claims or fines arising from the interruption of service. Tenant shall not allow any utility account to become delinquent, and a utility delinquency of more than thirty (30) days shall constitute a breach of this Lease. Nothing herein shall preclude Landlord from seeking emergency injunctive relief to restore essential services.",
+    "key_obligations": [
+      "you pay all utilities except trash collection",
+      "you pay reconnection fees if service is cut for non-payment",
+      "utility delinquency over 30 days is a lease breach",
+      "landlord can seek court order to restore essential services"
+    ]
+  },
+  {
+    "id": "liab_cross_01",
+    "category": "liability",
+    "clause_text": "Tenant shall indemnify and hold Landlord harmless from any claim arising out of Tenant's use or occupancy of the Premises, subject to the limitations set forth in Section 11(b) and the insurance requirements described in Exhibit C. Landlord's total liability to Tenant for any cause shall not exceed an amount equal to three (3) months' rent paid by Tenant, except in cases of fraud, gross negligence, or willful misconduct. This limitation shall not apply to claims governed by applicable consumer protection statutes, which shall remain subject to their own remedy provisions as further described in Addendum A.",
+    "key_obligations": [
+      "you indemnify landlord for claims from your use of the unit",
+      "landlord total liability to you is capped at 3 months rent",
+      "cap does not apply to fraud, gross negligence, or willful misconduct",
+      "consumer protection statute claims are governed separately by Addendum A"
+    ]
+  },
+  {
+    "id": "maint_ambig_01",
+    "category": "maintenance",
+    "clause_text": "Landlord shall maintain the Premises in good repair. Tenant shall also maintain the Premises in good repair. In the event both parties are required to make the same repair, the cost shall be split equally unless otherwise agreed in writing. Landlord's obligation to maintain shall be deemed satisfied upon completion of any repair within a commercially reasonable time. What constitutes a commercially reasonable time shall be determined at Landlord's reasonable discretion. Nothing in this clause shall be construed to limit either party's obligations under applicable housing codes.",
+    "key_obligations": [
+      "both landlord and tenant must maintain the unit in good repair",
+      "if both are responsible for the same repair, cost is split equally",
+      "landlord decides what is a commercially reasonable repair time",
+      "local housing code obligations apply regardless of this clause"
+    ]
+  },
+  {
+    "id": "term_contra_01",
+    "category": "termination",
+    "clause_text": "Tenant may terminate this Lease at any time with thirty (30) days written notice. Tenant shall also be required to pay a termination fee equivalent to two (2) months' rent upon early termination. Notwithstanding the foregoing, Tenant shall be relieved of the termination fee if sixty (60) days written notice is provided. For the avoidance of doubt, Tenant may terminate with thirty (30) days notice but must pay the fee, or terminate with sixty (60) days notice and avoid the fee. Landlord shall have no obligation to mitigate in the event the termination fee is paid in full.",
+    "key_obligations": [
+      "30 days notice to terminate with a 2-month termination fee",
+      "60 days notice allows termination without termination fee",
+      "landlord does not need to find a replacement tenant if you pay the termination fee in full"
+    ]
+  },
+  {
+    "id": "sd_nonrefund_01",
+    "category": "security_deposit",
+    "clause_text": "Upon occupancy, Tenant shall pay a move-in fee of Five Hundred Dollars ($500.00), which is non-refundable and is distinct from the security deposit. In addition, Tenant shall pay a security deposit of One Thousand Dollars ($1,000.00), which shall be held and returned in accordance with applicable state law. The move-in fee compensates Landlord for administrative processing, cleaning, and preparation costs and shall not be applied to any rent or other amount owed. Tenant acknowledges that the non-refundable nature of the move-in fee is a material term of this Lease and agrees that it does not constitute a security deposit under applicable law.",
+    "key_obligations": [
+      "pay $500 non-refundable move-in fee at occupancy",
+      "pay separate $1,000 refundable security deposit",
+      "move-in fee cannot be applied to rent or other charges",
+      "move-in fee is not a security deposit under state law"
+    ]
+  }
+]

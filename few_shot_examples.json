@@ -1,0 +1,90 @@
+[
+  {
+    "input_clause": "Upon execution of this Lease, Tenant shall deposit with Landlord the sum of two thousand dollars ($2,000) as a security deposit. Said deposit shall be held by Landlord as security for the faithful performance by Tenant of all terms, covenants, and conditions of this Lease. Upon termination of this tenancy, the security deposit, or any balance remaining after lawful deductions, shall be returned to Tenant within thirty (30) days after Tenant has vacated the Premises and delivered possession to Landlord.",
+    "expected_output": {
+      "simplified_text": "When you sign this lease, you pay a $2,000 security deposit. The landlord holds this money to make sure you follow the lease rules. When you move out, the landlord has 30 days to return your deposit, minus any amount they are allowed to keep.",
+      "tenant_obligations": [
+        "Pay a $2,000 security deposit when you sign the lease",
+        "Follow all the terms of the lease to get the deposit back in full"
+      ],
+      "landlord_obligations": [
+        "Return the remaining deposit within 30 days after you move out"
+      ],
+      "tenant_rights": [
+        "You are entitled to get your deposit back, minus any lawful deductions, within 30 days of moving out"
+      ],
+      "ambiguity_flag": false,
+      "ambiguity_note": null
+    }
+  },
+  {
+    "input_clause": "Tenant shall, at Tenant's sole cost and expense, keep and maintain the Premises in good, clean, and sanitary condition. Tenant shall be responsible for all repairs necessitated by Tenant's misuse, waste, or neglect, including that of Tenant's family, guests, and invitees. Landlord shall maintain the structural components of the building, including the roof, exterior walls, and common-area systems.",
+    "expected_output": {
+      "simplified_text": "You are responsible for keeping your unit clean and in good shape, and you pay for that yourself. If you, your family, or your guests cause damage, you pay for the repairs. The landlord takes care of the building's structure, including the roof, outside walls, and shared systems.",
+      "tenant_obligations": [
+        "Keep your unit clean and in good condition at your own expense",
+        "Pay for any repairs caused by you, your family, or your guests"
+      ],
+      "landlord_obligations": [
+        "Maintain the building's structural parts: roof, exterior walls, and common-area systems"
+      ],
+      "tenant_rights": [
+        "You can expect the landlord to handle structural and common-area maintenance"
+      ],
+      "ambiguity_flag": false,
+      "ambiguity_note": null
+    }
+  },
+  {
+    "input_clause": "No pets of any kind shall be kept on or about the Premises without the prior written consent of Landlord. If consent is granted, Tenant shall pay a non-refundable pet deposit of two hundred fifty dollars ($250) and additional monthly pet rent of forty dollars ($40). Tenant shall be fully liable for any damage caused by any approved pet. Landlord may revoke pet permission upon fourteen (14) days' notice if the pet creates a nuisance.",
+    "expected_output": {
+      "simplified_text": "You cannot have any pets unless the landlord gives you written permission. If you get approval, you pay a one-time $250 pet fee (you do not get this back) and an extra $40 per month for the pet. You are responsible for any damage your pet causes. The landlord can take away your pet permission with 14 days' notice if your pet causes problems.",
+      "tenant_obligations": [
+        "Get written permission from the landlord before having any pet",
+        "Pay a $250 non-refundable pet deposit and $40 monthly pet rent if approved",
+        "Pay for any damage caused by your pet"
+      ],
+      "landlord_obligations": [
+        "Give at least 14 days' notice before revoking pet permission"
+      ],
+      "tenant_rights": [
+        "You can keep a pet if the landlord gives written approval"
+      ],
+      "ambiguity_flag": false,
+      "ambiguity_note": null
+    }
+  },
+  {
+    "input_clause": "Tenant shall not assign this Lease or sublet the Premises without the prior written consent of Landlord. Landlord's consent to one subletting shall not constitute consent to any subsequent subletting. Any subletting without consent shall be voidable at Landlord's option and shall constitute a material breach.",
+    "expected_output": {
+      "simplified_text": "You cannot transfer your lease to someone else or rent out your unit (or part of it) to someone else without getting the landlord's written permission first. If the landlord agrees once, that does not mean they agree to future sublets. Subletting without permission is a serious lease violation, and the landlord can cancel the arrangement.",
+      "tenant_obligations": [
+        "Get landlord's written permission before subletting or assigning the lease",
+        "Get separate permission for each new sublet"
+      ],
+      "landlord_obligations": [],
+      "tenant_rights": [
+        "You can sublet if you obtain the landlord's written consent"
+      ],
+      "ambiguity_flag": false,
+      "ambiguity_note": null
+    }
+  },
+  {
+    "input_clause": "Tenant shall indemnify Landlord for all claims arising from Tenant's use of the Premises. Notwithstanding the foregoing, Landlord shall be responsible for maintaining the Premises in habitable condition. In the event of a conflict between this provision and Section 7, the terms of Section 7 shall control.",
+    "expected_output": {
+      "simplified_text": "You agree to protect the landlord from legal claims that come from how you use the unit. However, the landlord is still responsible for keeping the unit livable. If this section and Section 7 of the lease say different things, Section 7 wins.",
+      "tenant_obligations": [
+        "Cover the landlord's legal costs if you are responsible for a claim related to your use of the unit"
+      ],
+      "landlord_obligations": [
+        "Keep the unit in livable condition"
+      ],
+      "tenant_rights": [
+        "You can expect the unit to be kept in habitable condition regardless of this clause"
+      ],
+      "ambiguity_flag": true,
+      "ambiguity_note": "This clause references Section 7, which is not included here. The full picture of your obligations depends on what Section 7 says. You should read both sections together."
+    }
+  }
+]
