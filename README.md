@@ -115,6 +115,11 @@ Includes edge cases: cross-reference clauses, an ambiguous clause, a contradicto
 
 ## How to get API Key and run on terminal
 
+Clone the repo and install dependencies
+- bash git clone <your-repo-url>
+- cd lease-clause-simplifier
+- pip install -r requirements.txt
+
 Get an Anthropic API key
 - This app uses Claude, so you need an API key from Anthropic.
 
@@ -128,3 +133,5 @@ Add your API key to a .env file
 - cp .env.example .env
 - Open .env and replace the placeholder: ANTHROPIC_API_KEY=sk-ant-your-key-here
 -  Run the app in your terminal: streamlit run app.py
+
+Streamlit Link: https://real-estate-lease-clause-simplifier.streamlit.app/
